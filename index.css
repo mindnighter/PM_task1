@@ -1,3 +1,12 @@
+.border{
+  border: 0.5px solid;
+  border-color: #fe3d4d;
+  border-radius: 25px;
+  padding: 10px;
+}
 .red{
-  color: #ff0000;
+  color:#ff3935;
+}
+.green{
+  color: #4f9f4e;
 }
