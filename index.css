@@ -1,12 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .border{
   border: 0.5px solid;
   border-color: #fe3d4d;
   border-radius: 25px;
-  padding: 10px;
+  width: 95%;
+  margin: auto;
+  margin-top: 5px;
+  padding: 15px;
 }
 .red{
   color:#ff3935;
+  padding: inherit;
+}
+.fulvous{
+  color:#d13710;
+  padding: inherit;
 }
 .green{
   color: #4f9f4e;
+  padding: inherit;
+}
+.autor{
+  text-align: right;
+  font-style: italic;
+  font-size: 85%;
+  padding: inherit;
 }
