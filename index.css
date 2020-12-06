@@ -6,10 +6,11 @@
 .border{
   border: 0.5px solid;
   border-color: #fe3d4d;
-  border-radius: 25px;
+  border-radius: 45px;
   width: 95%;
   margin: auto;
   margin-top: 5px;
+  margin-bottom: 5px;
   padding: 15px;
 }
 .red{
