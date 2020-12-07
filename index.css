@@ -13,21 +13,25 @@
   margin-bottom: 5px;
   padding: 15px;
 }
-.red{
+p, .fulvous, .autor{
+  padding: 15px;
+}
+a{
+  color:#0311d1;
+  text-decoration: underline;
+}
+div > p:nth-child(even){
   color:#ff3935;
-  padding: inherit;
+}
+div > p:nth-child(odd){
+  color: #4f9f4e;
 }
 .fulvous{
   color:#d13710;
-  padding: inherit;
-}
-.green{
-  color: #4f9f4e;
-  padding: inherit;
 }
 .autor{
   text-align: right;
   font-style: italic;
   font-size: 85%;
-  padding: inherit;
+  color:#000 !important;
 }
