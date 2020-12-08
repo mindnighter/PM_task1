@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+p, .border, .fulvous, .autor{
+  padding: 15px;
+}
 .border{
   border: 0.5px solid;
   border-color: #fe3d4d;
@@ -11,10 +14,6 @@
   margin: auto;
   margin-top: 5px;
   margin-bottom: 5px;
-  padding: 15px;
-}
-p, .fulvous, .autor{
-  padding: 15px;
 }
 a{
   color:#0311d1;
